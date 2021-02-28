@@ -1,0 +1,6 @@
+# Stock Picker
+## Ruby project from The Odin Project
+
+### Description
+
+Create a method stock_picker that takes an array of prices, which associate to days, and return a pair of days that represent the best day to buy and sell.
